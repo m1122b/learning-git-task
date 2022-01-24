@@ -1,5 +1,11 @@
 
 print("")
+
+
+print("")
+print("!!!!!!!!! Regards !!!!!!!!!!!!!")
+print("")
+
 print("Lista zakupów:")
 
 shopping_list = {
