@@ -3,8 +3,8 @@ print("")
 print("Lista zakupów:")
 
 shopping_list = {
-    "Piekarnia" : ["chleb", "bułki", "ciasto", "tort", "placek"],
-    "Warzywniak" : ["marchew", "seler", "rukola", "ziemniaki", "pietruszka", "cukinia"]
+    "Piekarnia" : ["ciasto", "tort", "placek"],
+    "Warzywniak" : ["rukola", "ziemniaki", "pietruszka", "cukinia"]
 }
 
 
